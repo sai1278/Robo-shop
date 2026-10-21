@@ -18,5 +18,5 @@ do
             --output text
     )
 
-
+    echo "$instance instance_ID: $instance_id"
 done
